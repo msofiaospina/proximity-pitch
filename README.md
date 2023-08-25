@@ -4,5 +4,3 @@
 
 [![Watch the video](https://github.com/msofiaospina/proximity-pitch/assets/50884344/3268a0ea-9946-42f2-a71a-b1df2826f05c)](https://drive.google.com/file/d/1iKKhDukhpTNmI4DywYvWpzkDtSywyY5A/view)
 
-
-![image](https://github.com/msofiaospina/proximity-pitch/assets/50884344/3268a0ea-9946-42f2-a71a-b1df2826f05c)
